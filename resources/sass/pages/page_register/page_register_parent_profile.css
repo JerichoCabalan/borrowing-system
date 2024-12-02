@@ -1,0 +1,66 @@
+#PageRegistration .ant-layout-content .container .right {
+  padding: 0px;
+  overflow: hidden;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card {
+  width: 100%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body {
+  padding: 0px 70px !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .siblings-wrapper,
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .relationship-wrapper {
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .siblings-wrapper .ant-form-item,
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .relationship-wrapper .ant-form-item {
+  width: 49%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .address-wrapper .address-select {
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .address-wrapper .address-select .ant-form-item {
+  width: 95%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .address-wrapper .municipality {
+  width: 49%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .sponsor-wrapper .sponsor-select {
+  margin: 0px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .sponsor-wrapper .sponsor-select .ant-checkbox-group {
+  -moz-column-gap: 14px !important;
+       column-gap: 14px !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .sponsor-wrapper .sponsor-select .ant-checkbox-group .ant-checkbox-wrapper {
+  width: 20%;
+  margin-bottom: 20px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .sponsor-wrapper .custom-label {
+  width: 55%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .sponsor-wrapper .ant-form-item-control-input-content {
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .income-wrapper .ant-checkbox-group {
+  gap: 48px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .beneficiary-wrapper {
+  margin-bottom: 0px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .birth-wrapper {
+  display: flex;
+  gap: 10px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .birth-wrapper .date {
+  width: 45%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .birth-wrapper .date .ant-picker {
+  float: left;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .parent-content .birth-wrapper .date .date-format {
+  float: left;
+  margin-left: 10px;
+}/*# sourceMappingURL=page_register_parent_profile.css.map */

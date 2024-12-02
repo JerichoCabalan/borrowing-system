@@ -1,0 +1,121 @@
+#PageRegistration .ant-layout-content .container .right .progress-wrapper {
+  height: 100%;
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item {
+  width: 125px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 187px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-icon {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  color: transparent;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  margin-right: 15px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-1 {
+  background-color: #ffbc47;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-2 {
+  background-color: #40cee3;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-3 {
+  background-color: #f65e5d;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-4 {
+  background-color: #1d2d5f;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1:after,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2:after,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3:after {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 20px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1:after {
+  background-color: #ffbc47;
+  right: 20px;
+  content: "";
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2:after {
+  background-color: #40cee3;
+  right: 20px;
+  content: "";
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3:before,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3:after {
+  background-color: #f65e5d;
+  right: 20px;
+  content: "";
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-1:after,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-2:after,
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item .step-item-container .step-item-tail .circle-3:after {
+  left: 20px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item.active {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-wrapper .steps .step-item.active .step-item-container .step-item-icon {
+  width: 80px;
+  height: 80px;
+  font-size: 53px;
+  color: #ffffff;
+}
+#PageRegistration .ant-layout-content .container .right .progress-content {
+  height: 100%;
+  width: 100% !important;
+  display: flex;
+  flex-direction: column;
+  border: none !important;
+  margin: 0px !important;
+}
+#PageRegistration .ant-layout-content .container .right .progress-content .ant-card {
+  border: 0px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-btn {
+  display: flex;
+  gap: 16px;
+  justify-content: flex-end;
+  padding-right: 50px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-btn .btn-continue,
+#PageRegistration .ant-layout-content .container .right .progress-btn .btn-done {
+  border-radius: 5px !important;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  background-color: #2a60d4;
+  color: #ffffff;
+  width: 104px;
+}
+#PageRegistration .ant-layout-content .container .right .progress-btn .btn-back {
+  border-radius: 5px !important;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  background-color: #ffffff;
+  color: #2a60d4;
+  width: 104px;
+}/*# sourceMappingURL=page_register_right_step.css.map */

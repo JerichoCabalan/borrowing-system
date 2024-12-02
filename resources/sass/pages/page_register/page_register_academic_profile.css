@@ -1,0 +1,22 @@
+#PageRegistration .ant-layout-content .container .right .academic-content {
+  padding-left: 15px;
+}
+#PageRegistration .ant-layout-content .container .right .academic-content .second-courses-wrapper .sub-title {
+  display: flex;
+  padding: 0px !important;
+}
+#PageRegistration .ant-layout-content .container .right .academic-content .second-courses-wrapper .degree-select .ant-checkbox-group {
+  gap: 180px;
+}
+#PageRegistration .ant-layout-content .container .right .academic-content .second-courses-wrapper .working-select .ant-checkbox-group {
+  gap: 214px;
+}
+#PageRegistration .ant-layout-content .container .right .academic-content .school-wrapper,
+#PageRegistration .ant-layout-content .container .right .academic-content .accepted-wrapper,
+#PageRegistration .ant-layout-content .container .right .academic-content .attended-wrapper {
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .academic-content .accepted-wrapper .ant-checkbox-group,
+#PageRegistration .ant-layout-content .container .right .academic-content .attended-wrapper .ant-checkbox-group {
+  gap: 135px;
+}/*# sourceMappingURL=page_register_academic_profile.css.map */

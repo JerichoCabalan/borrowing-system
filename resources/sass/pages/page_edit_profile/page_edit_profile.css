@@ -1,0 +1,10 @@
+.modal-edit-profile-take-photo .ant-modal-content .ant-modal-body video {
+  width: 100% !important;
+}
+#PageEditProfile .ant-collapse .ant-collapse-item .ant-collapse-content .ant-collapse-content-box .ant-row .text-center .image-profile {
+  left: "38.75%";
+  right: "61.25%";
+  width: "200px";
+  height: "200px";
+  border-radius: "100%";
+}/*# sourceMappingURL=page_edit_profile.css.map */

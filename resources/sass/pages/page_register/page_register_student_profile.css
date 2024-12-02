@@ -1,0 +1,107 @@
+#PageRegistration .ant-layout-content .container .right .ant-card {
+  width: 100%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body {
+  padding: 0px 70px !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .ant-col .ant-form-item {
+  margin-bottom: 18px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .birth-wrapper {
+  display: flex;
+  gap: 10px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .birth-wrapper .ant-picker {
+  float: left;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .birth-wrapper .date-format {
+  float: left;
+  margin-left: 10px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .birth-wrapper .birth-place {
+  width: 51%;
+  padding-left: 12px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .birth-wrapper .ant-form-item {
+  margin-bottom: 0px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .address-wrapper .ant-col {
+  width: 100%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .address-wrapper .address-select {
+  display: flex;
+  flex-direction: row;
+  width: 97%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .address-wrapper .address-select .ant-form-item {
+  width: 100%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .contact_information {
+  display: flex;
+  flex-direction: row;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .left-side .contact_information .ant-form-item {
+  width: 49%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .more-info .religion-nationality {
+  display: flex;
+  flex-direction: row;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .more-info .ant-form-item {
+  width: 50%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .language-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .language-wrapper .ant-form {
+  width: 50%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .language-wrapper .ant-checkbox-group {
+  -moz-column-gap: 14px !important;
+       column-gap: 14px !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .language-wrapper .custom-label {
+  width: 55%;
+  margin-top: 22px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .language-wrapper .ant-form-item-control-input-content {
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .gender-bloodtype {
+  display: flex;
+  flex-direction: row;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .gender-bloodtype .gender-wrapper {
+  width: 50%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .gender-bloodtype .gender-wrapper .ant-radio-inner {
+  border-radius: 20% !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .gender-bloodtype .gender-wrapper .ant-radio-group {
+  float: left;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .gender-bloodtype .gender-wrapper .ant-radio-group .ant-radio-wrapper {
+  margin-right: 28px;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .address-wrapper {
+  width: 100% !important;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .address-wrapper .address-select {
+  display: flex;
+  flex-direction: row;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .height-weight {
+  display: flex;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-content .right-side .height-weight .ant-form-item {
+  width: 50%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-school-content {
+  display: flex;
+  width: 100%;
+}
+#PageRegistration .ant-layout-content .container .right .ant-card .ant-card-body .student-school-content .left-side {
+  width: 50% !important;
+  display: flex;
+}/*# sourceMappingURL=page_register_student_profile.css.map */
